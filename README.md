@@ -2,23 +2,24 @@
 nenen stands for nenen enen nen en
 
 # dependencies
-python kot
-make maybe
-macam la aku tau aku noob
+-python kot
+-make maybe
+-macam la aku tau aku noob
 
 # tutor install
-ez je copy paste je
-```git clone https://mommyfeetlicker/nenen```
-ni obviously kena git la bangang
-```cd nenen```
-cd tu cd ala yg cd disc tu
+-ez je copy paste je
+-```git clone https://mommyfeetlicker/nenen```
+-ni obviously kena git la bangang
 
-```make install```
-ni mungkin kena sudo
+-```cd nenen```
+-cd tu cd ala yg cd disc tu
 
-pastu run aja
-```nenen```
-i think maybe 
+-```make install```
+-ni mungkin kena sudo
+
+-pastu run aja
+-```nenen```
+-i think maybe 
 
 # credit
 1. omar
