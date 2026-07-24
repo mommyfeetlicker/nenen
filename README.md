@@ -8,7 +8,7 @@ nenen stands for nenen enen nen en
 
 # tutor install
 - ez je copy paste je
-- ```git clone https://mommyfeetlicker/nenen```
+- ```git clone https://github.com/mommyfeetlicker/nenen```
 - ni obviously kena git la bangang
 - 
 - ```cd nenen```
