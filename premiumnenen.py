@@ -27,7 +27,7 @@ if name == "omar":
 	time.sleep(tcooldown)
 	print("goodbye nga")
 else:
-	print("hai " ,name, "kys")
+	print("hai" ,name, "kys")
 	time.sleep(tcooldown)
 	textp("i sory")
 	textp("osom jom")
