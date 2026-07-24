@@ -25,5 +25,7 @@ nenen stands for nenen enen nen en
 1. omar
 2. wanikmal bongsu
 3. ibrahim traore
+4. /home/zaru
+5. kde desktop enviroment
 
 **sekian tq**
