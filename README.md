@@ -10,13 +10,13 @@ nenen stands for nenen enen nen en
 - ez je copy paste je
 - ```git clone https://mommyfeetlicker/nenen```
 - ni obviously kena git la bangang
-
+- 
 - ```cd nenen```
 - cd tu cd ala yg cd disc tu
-
+- 
 - ```make install```
 - ni mungkin kena sudo
-
+- 
 - pastu run aja
 - ```nenen```
 - i think maybe 
